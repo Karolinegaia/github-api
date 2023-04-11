@@ -1,7 +1,7 @@
 import axios from 'axios';
 import { useEffect, useState } from 'react';
 import { useParams } from 'react-router-dom';
-import { Card } from '../../componentes/Card/Card';
+import { Card } from '../../Compontents/Card';
 import './ProfileStyle.css';
 
 

@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import { Card } from '../../componentes/Card/Card';
+import { Card } from '../../Compontents/Card';
 import './HomeStyle.css';
 import axios from 'axios';
 import {BsSearch} from "react-icons/bs"
